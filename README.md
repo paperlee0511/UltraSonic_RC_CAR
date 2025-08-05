@@ -23,8 +23,16 @@ UART 통신 및 PWM제어를 통한 원격 명령 수신 및 모터 제어
 
 
 ## USECASE
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/49aa881b-4454-47ba-8f65-8288ef0c8a58" />
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/ce7f3654-312f-4934-8982-a006a31f698c" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/c2674417-928c-4db5-8255-1341174fc670" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/57944843-db22-465c-af2c-c3ba5d16d44e" />
+
+## 동작방식
+### 수동 주행
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/e8eb32df-34fa-43cb-9fa9-98d408faae25" />
+
+
+### 자율 주행
+
 
 
 ## 
