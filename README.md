@@ -1,5 +1,11 @@
 # 🏎️ 초음파센서를 이용한 장애물 회피 자율주행 RC CAR
 
+
+## 시연영상
+유튜브 링크 : https://youtu.be/q8EeekVraoU
+![RC_CAR_Readme용](https://github.com/user-attachments/assets/23df698f-1f17-4005-b41a-89681b96f771)
+
+
 ## 개요
 초음파를 활용하여 전방, 좌우측 30도 가량의 장애물을 탐지하여 회피하는 자율주행 차량 제작
 
@@ -38,7 +44,7 @@ UART 통신 및 PWM제어를 통한 원격 명령 수신 및 모터 제어
 ## Flow Chart
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/8f541300-db77-436e-a6fa-abdc5dd7790a" />
 
-## 테스트
-유튜브 링크 : https://youtu.be/q8EeekVraoU
+
+
 
 
