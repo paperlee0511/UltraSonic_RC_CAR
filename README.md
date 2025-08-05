@@ -32,7 +32,13 @@ UART 통신 및 PWM제어를 통한 원격 명령 수신 및 모터 제어
 
 
 ### 자율 주행
+<img width="600" alt="자율주행" src="https://github.com/user-attachments/assets/0fd30a98-01f2-4ce7-8ba1-3b95ebd4c1a5" />
 
 
+## Flow Chart
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/8f541300-db77-436e-a6fa-abdc5dd7790a" />
 
-## 
+## 테스트
+유튜브 링크 : https://youtu.be/q8EeekVraoU
+
+
