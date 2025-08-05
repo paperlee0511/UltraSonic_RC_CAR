@@ -1,1 +1,4 @@
-# 🏎️ UltraSonic_RC_CAR
+# 🏎️ 초음파센서를 이용한 장애물 회피 자율주행 RC CAR
+
+##
+
